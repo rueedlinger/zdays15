@@ -11,8 +11,8 @@ The goal is to build a Data Pipeline which extracts data and stores in Search En
 - data extraction - extract text from the different file format. (eg. use [tika python](https://github.com/chrismattmann/tika-python))
 - [transform](unstructured_data.ipynb) - Transforming unstructured data into structured data.
 - annotate data with with machine learing or meta data from external sources. 
--- [annotate](annotate_data.ipynb) with meta data. 
--- [classify text](classify_text.ipynb)
--- [cluserting text](clustering_text.ipynb)
+    * [annotate](annotate_data.ipynb) with meta data. 
+    * [classify text](classify_text.ipynb)
+    * [cluserting text](clustering_text.ipynb)
 - store data
 - visualize data
